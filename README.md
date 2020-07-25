@@ -54,26 +54,27 @@
 [![DigitaOcean](https://img.shields.io/badge/digital%20ocean-%23000000.svg?&style=flat-square&logo=digitalocean&logoColor=white&labelColor=black)]()
 
 
-<img src="https://avatars2.githubusercontent.com/u/38852529?s=460&u=f53c690b4a34afc76ef91f7df13afde73a438927&v=4" class="avatar avatar-user width-full border bg-white" style="border-radius: 50%;" width="50"> A little more about me...  
+### <img src="https://avatars2.githubusercontent.com/u/38852529?s=460&u=f53c690b4a34afc76ef91f7df13afde73a438927&v=4" class="avatar avatar-user width-full border bg-white" style="border-radius: 50%;" width="50"> A little more about me...  
 
 ```javascript
 const arnav = {
   fullname: "Arnav Das",
   mail: "arnav.das88@gmail.com",
   code: [ Python, C#, C++, .NET, Javascript, HTML, CSS ],
-  frameworks: [ Tensorflow, Kera, PyTorch, Caffe, Django, Flask ],
-  OS: Linux,
-  stack: [ ELK ]
+  frameworks: [ Tensorflow, Kera, PyTorch, Caffe ],
+  web: [ Django, Flask, Bootstrap, jQuery, REST API],
+  os: Linux,
+  stack: [ ELK ],
   cloud: [ Docker, AWS, DigitalOcean, Heroku ],
   topic: [ "NLP", "Cyber Security" ],
   techCommunities: {
                         member: "Kolkata GDG",
                     },
- experience: {
+  experience: {
                   intern: "TeamCognito",
-                  techbiz-associate: "TeamCognito",
-                  machinelearning-lead: "TeamCognito",
-              }
+                  techbizzAssociate: "TeamCognito",
+                  machineLearningLead: "TeamCognito",
+               }
 }
 ```
 
