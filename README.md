@@ -30,6 +30,8 @@
   
 </p>
 
+---
+
 ### My Skills
 [![Linux](https://img.shields.io/badge/linux-%23239120.svg?&style=flat-square&logo=linux&logoColor=white)]()
 
@@ -61,7 +63,7 @@ const arnav = {
   fullname: "Arnav Das",
   mail: "arnav.das88@gmail.com",
   code: [ Python, C#, C++, .NET, Javascript, HTML, CSS ],
-  frameworks: [ Tensorflow, Kera, PyTorch, Caffe ],
+  frameworks: [ Tensorflow, Keras, PyTorch, Caffe ],
   web: [ Django, Flask, Bootstrap, jQuery, REST API],
   os: Linux,
   stack: [ ELK ],
