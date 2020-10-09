@@ -69,9 +69,7 @@ const arnav = {
   stack: [ ELK ],
   cloud: [ Docker, AWS, DigitalOcean, Heroku ],
   topic: [ "NLP", "Cyber Security" ],
-  techCommunities: {
-                        member: "Kolkata GDG",
-                    },
+  techCommunities: [ "Kolkata GDG", "SillyCon" ],
   experience: {
                   intern: "TeamCognito",
                   techbizzAssociate: "TeamCognito",
