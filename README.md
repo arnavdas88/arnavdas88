@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A python and .net developer from Kolkata, India.
+  A python and .net developer from Kolkata, India. 
 </p>
 
 <p align='center'>
@@ -31,6 +31,8 @@
 </p>
 
 ---
+### My Views
+[![HitCount](http://hits.dwyl.com/arnavdas88/arnavdas88.svg)](http://hits.dwyl.com/arnavdas88/arnavdas88)
 
 ### My Skills
 [![Linux](https://img.shields.io/badge/linux-%23239120.svg?&style=flat-square&logo=linux&logoColor=white)]()
