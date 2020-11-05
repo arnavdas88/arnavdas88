@@ -11,7 +11,11 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:arnav.das88@gmail.com'>arnav.das88@gmail.com</a>
 </p>
-
+<p align='center'>
+  <a href="https://www.buymeacoffee.com/arnavdas88" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30px" >
+  </a>
+</p>
 
 <p align='center'>
   
@@ -27,7 +31,6 @@
   <a href="https://twitter.com/Arnavda34830638/">
     <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
 
 ---
