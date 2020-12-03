@@ -71,7 +71,7 @@ const arnav = {
   frameworks: [ Tensorflow, Keras, PyTorch, Caffe, Mxnet, Sonnet, Theano ],
   web: [ Django, Flask, Bootstrap, jQuery, REST API],
   quantum: [ Qiskit ],
-  os: Linux,
+  os: Debian,
   bigdata: [ ELK ],
   cloud: [ Docker, DockerHub, AWS, DigitalOcean, Heroku ],
   topic: [ "Deep Learning", "Cyber Security", "Quantum Computing" ],
