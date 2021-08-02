@@ -28,7 +28,7 @@
   <a href="https://github.com/arnavdas88">
     <img src="https://img.shields.io/badge/github-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/Arnavda34830638/">
+  <a href="https://twitter.com/arnavdas88/">
     <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
