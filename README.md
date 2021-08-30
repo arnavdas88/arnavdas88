@@ -64,20 +64,26 @@
 ```javascript
 const arnav = {
   fullname: "Arnav Das",
-  mail: "arnav.das88@gmail.com",
+  mail: [ "arnav.das88@gmail.com", "arnav.das88@outlook.com", "arnav@team-cognito.com" ],
   code: [ Python, C#, C++, .NET, Javascript, HTML, CSS ],
   frameworks: [ Tensorflow, Keras, PyTorch, Caffe, Mxnet, Sonnet, Theano ],
-  web: [ Django, Flask, Bootstrap, jQuery, REST API],
+  web: [ Django, Flask, Bootstrap, jQuery, REST API ],
   quantum: [ Qiskit ],
-  os: Debian,
+  os: [ Debian, macOS ],
   bigdata: [ ELK ],
   cloud: [ Docker, DockerHub, AWS, DigitalOcean, Heroku ],
   topic: [ "Deep Learning", "Cyber Security", "Quantum Computing" ],
-  techCommunities: [ "Kolkata GDG", "SillyCon" ],
+  techCommunities: [ 
+          "SillyCon", 
+          "Qiskit Translation", 
+          "QIndia", 
+          "বাংলায় কোয়ান্টাম কম্পিউটিং (Banglai Quantum Computing)" 
+  ],
   experience: {
                   intern: "TeamCognito",
                   techbizzAssociate: "TeamCognito",
                   machineLearningLead: "TeamCognito",
+                  productEngineer: "ZERON"
                }
 }
 ```
@@ -86,7 +92,7 @@ const arnav = {
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SciSharp&repo=TensorFlow.NET)](https://github.com/arnavdas88/TensorFlow.NET)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavdas88&repo=Neural-Arithmatic-Logic-Unit)](https://github.com/arnavdas88/Neural-Arithmatic-Logic-Unit)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavdas88&repo=Assist.Jarvis)](https://github.com/arnavdas88/Assist.Jarvis)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavdas88&repo=Bot2Bot_Conversation)](https://github.com/arnavdas88/Bot2Bot_Conversation)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavdas88&repo=QuGlassyIsing)](https://github.com/arnavdas88/QuGlassyIsing)
 
   [![Here's my stats](https://github-readme-stats.vercel.app/api?username=arnavdas88&show_icons=true&theme=light&line_height=33&hide=true&count_private=true)](https://github.com/arnavdas88)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdas88&count_private=true&hide=Jupyter%20Notebook)](https://github.com/arnavdas88/)
