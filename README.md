@@ -112,7 +112,7 @@ const arnav = {
   
   <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Metrics](https://metrics.lecoq.io/arnavdas88?template=classic&config.timezone=Asia%2FKolkata)
+![Metrics](https://metrics.lecoq.io/arnavdas88?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FKolkata)
 
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SciSharp&repo=TensorFlow.NET&theme=nord)](https://github.com/arnavdas88/TensorFlow.NET)
