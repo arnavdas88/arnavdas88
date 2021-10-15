@@ -1,6 +1,7 @@
 
 <div align="center">
-<img width="100%" height = "450px" src="https://cdn.pixabay.com/photo/2021/05/22/22/35/black-hole-6274731_960_720.jpg" alt="cover" />
+  <b><div align="center">May the &#70; &#61; <em>m</em> &#183; &part;&#651; &#8725; &part;&#648; , be with you </div></b>
+<img width="100%" height = "100%" src="https://cdn.pixabay.com/photo/2017/10/10/15/31/spaceship-2837606_960_720.png" alt="cover" aligh="center" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></img> </h1>
@@ -18,8 +19,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 What’s up, I’m Arnav. I’m a researcher living in Kolkata. 
-I am a Machine Learning Practitioner and a Quantum Computing Enthusiast. 
-I am a fan of `Linux` and Open Source Softwares.
+I am a <u>Machine Learning Practitioner</u> and a <u>Quantum Computing Enthusiast</u>. 
+I am a fan of `Linux` and `Open Source Softwares`.
 
 
 
