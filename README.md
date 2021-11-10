@@ -112,8 +112,12 @@ const arnav = {
   
   <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Metrics](https://metrics.lecoq.io/arnavdas88?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FKolkata)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnavdas88&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=9C2C2C&background=DD272700&fire=FFFFFF)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=arnavdas88&theme=onestar&column=3&rank=SECRET,S,SS,SSS,A,AA,AAA,B&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![Metrics](https://metrics.lecoq.io/arnavdas88?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FKolkata)
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SciSharp&repo=TensorFlow.NET&theme=nord)](https://github.com/arnavdas88/TensorFlow.NET)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavdas88&repo=Neural-Arithmatic-Logic-Unit&theme=nord)](https://github.com/arnavdas88/Neural-Arithmatic-Logic-Unit)
