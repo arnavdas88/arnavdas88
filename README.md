@@ -32,7 +32,6 @@ Also, my <a href="https://about.me/arnav-das/">about.me</a> handle is <a href="h
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-
   <a href="https://wa.me/9775665177?text=Hello%20Arnav">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
@@ -53,6 +52,7 @@ Also, my <a href="https://about.me/arnav-das/">about.me</a> handle is <a href="h
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
+<img width="55%" align="right" alt="Git Art Work" src="gitartwork.svg" />
 
 
 [![Linux](https://img.shields.io/badge/linux-%23239120.svg?&style=flat-square&logo=linux&logoColor=white)]()
@@ -85,7 +85,7 @@ Also, my <a href="https://about.me/arnav-das/">about.me</a> handle is <a href="h
 ```javascript
 const arnav = {
   fullname: "Arnav Das",
-  mail: [ "arnav.das88@gmail.com", "arnav.das88@outlook.com", "arnav@team-cognito.com" ],
+  mail: [ "arnav.das88@gmail.com", "arnav.das88@outlook.com", "arnav@team-cognito.com", "arnav@zeron.com" ],
   languages: [ Python, C#, C++, .NET, Javascript, HTML, CSS ],
   frameworks: [ Tensorflow, Keras, PyTorch, Caffe, Mxnet, Sonnet, Theano ],
   web: [ Django, Flask, Bootstrap, jQuery, REST API ],
@@ -97,6 +97,7 @@ const arnav = {
   techCommunities: [ 
           "SillyCon", 
           "Qiskit Translation", 
+          "QWorld", 
           "QIndia", 
           "বাংলায় কোয়ান্টাম কম্পিউটিং (Banglai Quantum Computing)" 
   ],
