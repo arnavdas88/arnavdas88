@@ -4,7 +4,7 @@
 <img width="100%" height = "100%" src="https://cdn.pixabay.com/photo/2017/10/10/15/31/spaceship-2837606_960_720.png" alt="cover" aligh="center" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></img> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px"></img> </h1>
 <p align='center'>
 
   [![visitors](https://visitor-badge.glitch.me/badge?page_id=arnavdas88.arnavdas88)](https://visitor-badge.glitch.me/badge?page_id=arnavdas88.arnavdas88)
@@ -30,7 +30,7 @@ Also, my <a href="https://about.me/arnav-das/">about.me</a> handle is <a href="h
 
 <br>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="100px"> </h2>
 
   <a href="https://wa.me/9775665177?text=Hello%20Arnav">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
@@ -50,7 +50,7 @@ Also, my <a href="https://about.me/arnav-das/">about.me</a> handle is <a href="h
   </a>
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px"> </h2>
 
 <img width="55%" align="right" alt="Git Art Work" src="gitartwork.svg" />
 
@@ -111,7 +111,7 @@ const arnav = {
 ```
 
   
-  <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+  <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' height='32px'> </h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnavdas88&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=9C2C2C&background=DD272700&fire=FFFFFF)](https://git.io/streak-stats)
 
@@ -129,7 +129,7 @@ const arnav = {
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdas88&count_private=true&hide=Jupyter%20Notebook&theme=nord)](https://github.com/arnavdas88/)
 
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' height='32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
