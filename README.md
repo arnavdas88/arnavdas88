@@ -85,15 +85,15 @@ Also, my <a href="https://about.me/arnav-das/">about.me</a> handle is <a href="h
 ```javascript
 const arnav = {
   fullname: "Arnav Das",
-  mail: [ "arnav.das88@gmail.com", "arnav.das88@outlook.com", "arnav@team-cognito.com", "arnav@zeron.com" ],
-  languages: [ Python, C#, C++, .NET, Javascript, HTML, CSS ],
-  frameworks: [ Tensorflow, Keras, PyTorch, Caffe, Mxnet, Sonnet, Theano ],
+  mail: [ "arnav.das88@gmail.com", "arnav.das88@outlook.com" ],
+  languages: [ Python, C#, C++, JavaScript, HTML, CSS ],
+  neuralnetwork: [ Tensorflow, Keras, PyTorch, Caffe, Mxnet, Sonnet, Theano ],
   web: [ Django, Flask, Bootstrap, jQuery, REST API ],
   quantum: [ Qiskit ],
   os: [ Debian, macOS ],
-  bigdata: [ ELK ],
+  bigdata: [ OpenSearch, Elastic ],
   cloud: [ Docker, AWS, DigitalOcean, Heroku ],
-  topic: [ "Deep Learning", "Cyber Security", "Quantum Computing" ],
+  topic: [ "Machine Learning", "Cyber Security", "Quantum Computing" ],
   techCommunities: [ 
           "SillyCon", 
           "Qiskit Translation", 
@@ -104,9 +104,10 @@ const arnav = {
   experience: {
                   intern: "TeamCognito",
                   techbizzAssociate: "TeamCognito",
-                  machineLearningLead: "TeamCognito",
-                  productEngineer: "ZERON"
-               }
+                  machineLearningEngineer: "TeamCognito",
+                  researchFellow: "ZERON",
+                  researchIntern: "QResearch",
+               },
 }
 ```
 
