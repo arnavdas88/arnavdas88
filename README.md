@@ -5,14 +5,9 @@
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px"></img> </h1>
-<p align='center'>
-
-  [![visitors](https://visitor-badge.glitch.me/badge?page_id=arnavdas88.arnavdas88)](https://visitor-badge.glitch.me/badge?page_id=arnavdas88.arnavdas88)
-  [![wakatime](https://wakatime.com/badge/user/380570cf-30bd-4b71-8ac3-ea422ccb6dff.svg)](https://wakatime.com/@380570cf-30bd-4b71-8ac3-ea422ccb6dff)
-</p>
 
 
-<div size='20px'> Hi! My name is Arnav. Thank You for taking the time to view my GitHub Profile :smile: </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=855&height=80&lines=Hi!+%F0%9F%91%8B;I+am+Arnav.+Thank+You+for+taking+the+time+to+view+my+GitHub+Profile+%F0%9F%98%84+)](https://git.io/typing-svg)
 
 <h2> About Me </h2>
 
