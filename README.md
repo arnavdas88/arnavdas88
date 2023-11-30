@@ -52,9 +52,6 @@ Also, my <a href="https://about.me/arnav-das/">about.me</a> handle is <a href="h
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px"> </h2>
 
-<img width="55%" align="right" alt="Git Art Work" src="gitartwork.svg" />
-
-
 [![Linux](https://img.shields.io/badge/linux-%23239120.svg?&style=flat-square&logo=linux&logoColor=white)]()
 
 [![C Sharp](https://img.shields.io/badge/c%20sharp%20-%23306998.svg?&style=flat-square&logo=c%20sharp&logoColor=white)]()
@@ -104,8 +101,8 @@ const arnav = {
   experience: {
                   intern: "TeamCognito",
                   techbizzAssociate: "TeamCognito",
-                  machineLearningEngineer: "TeamCognito",
-                  researchFellow: "ZERON",
+                  machineLearningLead: "TeamCognito",
+                  researchLead: "Zeron",
                   researchIntern: "QResearch",
                },
 }
